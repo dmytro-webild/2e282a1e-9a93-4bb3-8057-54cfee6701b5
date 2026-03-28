@@ -132,7 +132,7 @@ export default function LandingPage() {
           quote: "The most authentic tacos I've had in the city. The atmosphere is just perfect.",
           name: "Maria G.",
           role: "Foodie",
-          imageSrc: "http://img.b2bpic.net/free-photo/friends-eating-conversating-restaurant_23-2148006704.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/friends-eating-conversating-restaurant_23-2148006704.jpg?_wi=1",
         },
         {
           id: "2",
@@ -164,7 +164,7 @@ export default function LandingPage() {
           quote: "A truly special spot. Every dish is seasoned perfectly, reflecting genuine Mexican traditions.",
           name: "Sofia L.",
           role: "Food Critic",
-          imageSrc: "http://img.b2bpic.net/free-photo/friends-eating-conversating-restaurant_23-2148006704.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/friends-eating-conversating-restaurant_23-2148006704.jpg?_wi=2",
         },
       ]}
       title="Loved by Our Guests"
